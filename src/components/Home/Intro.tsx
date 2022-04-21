@@ -185,7 +185,7 @@ export function Intro() {
             <SectionContent>
               <div className="prose text-primary">
                 <p>
-                  Hey, I&apos;m Brian. I&apos;m a designer,{' '}
+                  Hey, I&apos;m Mike. I&apos;m a designer,{' '}
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
